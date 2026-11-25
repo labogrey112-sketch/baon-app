@@ -74,6 +74,7 @@ body {
 
     background: var(--lime);
     color: var(--ink);
+
 }
 
 /* ---- layout ---- */
@@ -169,6 +170,7 @@ h2 {
 
     background: rgb(255 255 255 / 0.15);
     margin-bottom: 0.5rem;
+
 }
 
 .bar>i {
@@ -544,4 +546,4 @@ select:focus {
 
     }
 
-}
+} 
